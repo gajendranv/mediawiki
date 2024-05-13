@@ -19,12 +19,6 @@ Package provides the dockerfile which setup and run the mediawiki & mariadb on c
 
 # Usage
 
-Git clone the project to your local computer:
-
-```bash
-git clone https://github.com/chen0040/dockerfile-centos-mariadb.git
-```
-
 ## Build the mariadb docker image
 
 Run the following command from the Dockerfiles/mariadb folder of the project to build your own mariadb docker image:
