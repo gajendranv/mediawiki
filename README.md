@@ -1,4 +1,4 @@
-# Dockerfiles Deployment for Mediawiki and it's dependencies
+# Dockerfiles Deployment for Mediawiki and it's dependencies in Azure AKS
 
 Package provides the dockerfile which setup and run the mediawiki & mariadb on centos VM with configuration overwrite and database setup including Azure AKS Deployment.
 
