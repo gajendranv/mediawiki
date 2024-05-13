@@ -75,7 +75,7 @@ $ sudo ./stop.sh
 docker run -it --name=mediawiki-1.0 -u 0 -d -p 80:80 mediawiki-1.0:latest /usr/sbin/init
 ```
 
-Now you should be able to connect to the Mediawiki from your local computer at the port 180, 
+Now you should be able to connect to the Mediawiki from your local computer at the port 80, 
  
 an example of the mediawiki url will be:
 
