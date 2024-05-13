@@ -1,8 +1,8 @@
 # Dockerfiles Deployment for Mediawiki and it's dependencies
 
-Package provides the dockerfile which setup and run the mariadb on centos VM with configuration overwrite and database setup
+Package provides the dockerfile which setup and run the mediawiki & mariadb on centos VM with configuration overwrite and database setup including Azure AKS Deployment.
 
-![Docker Project logo](docker.png) ![Mariadb Project logo](mariadb.png) ![Mediawiki Project logo](mediawiki.png)
+![Docker Project logo](docker.png) ![Mariadb Project logo](mariadb.png) ![Mediawiki Project logo](mediawiki.jpg)
 
 # Features
 
@@ -86,7 +86,7 @@ Now you should be able to connect to the Mediawiki from your local computer at t
 an example of the mediawiki url will be:
 
 <pre>
-http:l//ocalhost/mediawiki
+http://localhost/mediawiki
 </pre>
 
 Now all set, you can continue UI steps to complete the Mediawiki Deployment.
